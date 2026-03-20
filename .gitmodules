@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kanishkajain2005-byte/RESUME-Screener.BACKEND.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kanishkajain2005-byte/resume-screener-frontend.git
+[submodule "ml-core"]
+	path = ml-core
+	url = https://github.com/kanishkajain2005-byte/resume-screener-ml.git
